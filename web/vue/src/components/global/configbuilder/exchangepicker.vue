@@ -62,4 +62,4 @@ export default {
   }
 }
 </script>
-</style>
+
