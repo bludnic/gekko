@@ -10,9 +10,9 @@
     "marked": "^12.0.0",
     "superagent": "^8.1.2",
     "superagent-no-cache": "github:uditalias/superagent-no-cache",
-    "vue": "^3.4.20",
-    "vue-router": "^4.3.0",
-    "vuex": "^4.1.0"
+    "vue": "^2.7.0",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.8",
